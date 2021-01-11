@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on 兔洞网|RBThoo</title>
+    <link>http://rbthoo.com/categories/blog/</link>
+    <description>Recent content in blog on 兔洞网|RBThoo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>RBT</copyright>
+    <lastBuildDate>Mon, 11 Jan 2021 11:22:35 +0800</lastBuildDate><atom:link href="http://rbthoo.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>http://rbthoo.com/posts/hello/</link>
+      <pubDate>Mon, 11 Jan 2021 11:22:35 +0800</pubDate>
+      
+      <guid>http://rbthoo.com/posts/hello/</guid>
+      <description>这是我的网站。
+为什么想办网站呢？因为最近几年网上冲浪的直观体验是:有趣的东西越来越少，癫狂仇恨和垃圾越来越多。我的网站算不上一方净土，但至少可以算是一片精神自留地。
+我将在这里写/翻译一些有趣的文章，你可以转载我的网站上的内容，但一定要在显目位置著名转载和原文链接。
+RBThoo.com 这个域名取自《爱丽丝仙境漫游记》中的兔洞（rabbit hole）。生活是一场美妙的旅程，愿你的旅程平安喜乐。</description>
+    </item>
+    
+  </channel>
+</rss>

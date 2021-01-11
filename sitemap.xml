@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://rbthoo.com/categories/blog/</loc>
+    <lastmod>2021-01-11T11:22:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rbthoo.com/categories/</loc>
+    <lastmod>2021-01-11T11:22:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rbthoo.com/posts/hello/</loc>
+    <lastmod>2021-01-11T11:22:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rbthoo.com/tags/nonsense/</loc>
+    <lastmod>2021-01-11T11:22:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rbthoo.com/posts/</loc>
+    <lastmod>2021-01-11T11:22:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rbthoo.com/tags/</loc>
+    <lastmod>2021-01-11T11:22:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rbthoo.com/</loc>
+    <lastmod>2021-01-11T11:22:35+08:00</lastmod>
+  </url>
+  
+</urlset>
